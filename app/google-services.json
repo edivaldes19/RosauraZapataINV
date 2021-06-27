@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760283056330",
+    "project_id": "rosaurazapatainv-82169",
+    "storage_bucket": "rosaurazapatainv-82169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760283056330:android:9a6107fe92eca5dd0e4c33",
+        "android_client_info": {
+          "package_name": "com.manuel.rosaurazapatainv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760283056330-amn5hgfs33lje9trt7a35rljphagq5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHR_PGly395G2XJrm3pwel8OrJIvLoQ1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760283056330-amn5hgfs33lje9trt7a35rljphagq5ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

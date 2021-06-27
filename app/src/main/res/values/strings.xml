@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RosauraZapataINV</string>
+    <string name="rosaura_zapata_inv">Rosaura Zapata INV</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="estados">
+        <item>Bueno</item>
+        <item>Regular</item>
+        <item>Malo</item>
+    </string-array>
+</resources>
